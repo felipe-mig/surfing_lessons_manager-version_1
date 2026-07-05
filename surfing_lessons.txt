@@ -1,0 +1,12 @@
+TEACHER: Felipe Iglesias
+DAY: Friday
+TIME: 7:00
+BEACH: Kirra Beach
+CONDITIONS: Clouds, 2-3m swell
+BOARD: [94mBlue[0m Shortboard
+SKILLS: Duck dive and Balance
+PRICE: 60.0
+STUDENT: Jill Valentine | True
+STUDENT: Chris Redfield | False
+-------------------------------------------------------
+
