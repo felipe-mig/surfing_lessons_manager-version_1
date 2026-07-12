@@ -8,7 +8,7 @@ DATA_FILE = "surfing_lessons.txt"
 LESSON_DURATION = 2
 MAX_STUDENTS = 7
 DAYS = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
-BEACHES = ["Snapper Rocks", "Kirra Beach", "Coolangatta Beach", "Burleigh Heads", "Surfers Paradise Beach", "Cabarita Beach"]
+BEACHES = ["Snapper Rocks", "Kirra Beach", "Coolangatta Beach", "Burleigh Heads", "Surfers Paradise Beach", "Byron Bay"]
 BOARD_TYPES = ["Longboard", "Shortboard", "Training Board"]
 
 # \033[91m String \033[0m <-- this chunk of code is setting the colour of the string based on the ANSI colours table.
