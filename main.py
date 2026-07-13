@@ -1,6 +1,3 @@
-# Student Name: [Felipe Martin Iglesias Garcia]
-# Student ID: [25258376]
-# COMP5002 Assessment 3: [Surfing Lessons Manager]
 
 # ── Constants ─────────────────────────────────────────────────────────────────
 
